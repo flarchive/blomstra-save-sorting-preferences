@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of blomstra/save-sorting-preferences.** Not for installation: use [Packagist](https://packagist.org/packages/blomstra/save-sorting-preferences) or the [upstream repository](https://github.com/blomstra/flarum-ext-save-sorting-preferences).
 
-**0** versions archived · Latest: [`1.1`](https://github.com/flarchive/blomstra-save-sorting-preferences/tree/archive/v1.1) · License: `MIT` · Flarum: `^1.2.0`
+**3** versions archived · Latest: [`1.1`](https://github.com/flarchive/blomstra-save-sorting-preferences/tree/archive/v1.1) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0` | 2024-07-09 | `^1.2.0` | [Browse](https://github.com/flarchive/blomstra-save-sorting-preferences/tree/archive/v1.0) |
+| `1.0-beta` | 2024-06-11 | `^1.2.0` | [Browse](https://github.com/flarchive/blomstra-save-sorting-preferences/tree/archive/v1.0-beta) |
+| `1.1` | 2025-09-11 | `^1.2.0` | [Browse](https://github.com/flarchive/blomstra-save-sorting-preferences/tree/archive/v1.1) |
 
 Catalog entry: [packages/blomstra-save-sorting-preferences.json](https://github.com/flarchive/archive-index/blob/main/packages/blomstra-save-sorting-preferences.json)
 
